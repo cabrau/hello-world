@@ -1,2 +1,2 @@
 # hello-world
-Some ideias
+Just some ideias.
